@@ -1,0 +1,142 @@
+
+.topo-0{
+   background-color: #fff;
+   padding: 40px 0;
+}
+
+.texto-adv{
+   margin: 0 0 20px 0px;
+   font-family: Arial;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: normal;
+   padding-right: 8px;
+}
+
+.div-topo-0{
+   background-color: #000;
+   color: #e0e2df;
+   display: inline-block;
+   font-size: 18px;
+   padding: 5px 20px;
+   font-weight: 600;
+}
+
+.texto-data{
+   color: #4d4d4d;
+   font-size: 12px;
+   font-family: Arial;
+   margin-top: 15px !important;
+   text-transform: italic;
+}
+
+.texto-data i{
+   padding-right: 3px;
+}
+
+.texto-data span{
+   margin-right: 10px;
+}  
+
+.titulo-topo-0{
+   font-size: 31px !important;
+   line-height: normal;
+   text-decoration: underline;
+   color: #000;
+   font-weight: 700;
+} 
+
+.texto{
+   margin: 20px 0px;
+   font-family: Arial;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: normal;
+   color: #1a1a1a;
+}
+
+.linha-dir{
+   padding-right: 10px;
+   border-right: 1px solid rgb(0, 0, 0, 0.5);
+}
+
+.img-max{
+   width: 100%;
+   height: auto;
+}
+
+.img-max2{
+   width: 100%;
+   height: auto;
+   aspect-ratio: 4 / 3 !important;
+}
+
+.botao{
+   border: 2px solid #015bcd;
+   border-radius: 10px;
+   color: #015bcd;
+   display: inline-block;
+   font-size: 20px;
+   padding: 10px 40px;
+   text-decoration: none;
+   margin-top: 20px;
+}
+
+.titulo-topo-1{
+   color: #2a2a2a;
+   margin-top:20px;
+   text-decoration: none;
+   line-height: 25px;
+   font-size: 20px;
+}
+
+.titulo-topo-1 a{
+   color: #2a2a2a;
+}
+
+.sublink{
+   font-size: 12px;
+   line-height: 23px;
+   display: inline-block;
+   font-family: 'Montserrat';
+   font-weight: 600;
+   margin-top: 10px;
+   color: #0a58ca;
+}
+
+.sublink a{
+   color: #0a58ca;
+} 
+
+.rodape{
+   padding: 40px 0 20px 0;
+   margin-top: 30px;
+   background-color: #efefef;
+} 
+
+.texto-rodape{
+   color: #a1a4ab;
+   font-size: 12px !important;
+   padding-bottom: 5px;
+   text-align: left;
+} 
+
+.texto-rodape a{
+   color: #0a58ca; 
+   margin-right: 5px;
+   margin-left: 5px;  
+}
+
+@media screen and (max-width: 600px) {
+
+   .linha-dir{
+      padding: 10px;
+      border: none;
+   }   
+
+   .texto-data{
+      font-size: 11px;
+      margin-top: 5px;
+   }
+
+}
