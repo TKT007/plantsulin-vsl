@@ -1,0 +1,145 @@
+.image11 .captions-header {
+   background: #430197;
+   border-radius: 7px 7px 0 0;
+   text-transform: uppercase;
+   color: #fff;
+   padding: 3% 1%;
+   text-align: center;
+   font-size: clamp(14px, 4vw, 20px);
+   line-height: 1.2;
+   font-weight: bold;
+}
+
+.image11 .captions {
+   position: relative;
+}
+
+.image11 .captions img {
+   border-radius: 0 0 7px 7px;
+}
+
+.image11 .captions div {
+   position: absolute;
+   top: 0;
+   left: 5%;
+   color: #430197;
+   font-weight: 500;
+   font-size: clamp(10px, 3vw, 14px);
+   line-height: 1;
+   width: 50%;
+}
+
+.image11 .captions div span {
+   display: block;
+   color: #e29746;
+   font-weight: 600;
+   text-transform: uppercase;
+   font-size: clamp(12px, 4vw, 16px);
+   line-height: 1;
+}
+
+.image11 .captions div:nth-child(2) {
+   top: 1%;
+}
+
+.image11 .captions div:nth-child(3) {
+   top: 10%;
+}
+
+.image11 .captions div:nth-child(4) {
+   top: 21%;
+}
+
+.image11 .captions div:nth-child(5) {
+   top: 33%;
+   width: 42%;
+}
+
+.image11 .captions div:nth-child(6) {
+   top: 56%;
+}
+
+.image11 .captions div:nth-child(7) {
+   top: 66%;
+}
+
+.image11 .captions div:nth-child(8) {
+   top: 74%;
+}
+
+.image11 .captions div:nth-child(9) {
+   top: 87%;
+   width: 35%;
+}
+
+
+
+
+
+
+.image15 .captions {
+   position: relative;
+}
+
+.image15 .captions .captions-header {
+   position: absolute;
+   left: 0;
+   top: 6%;
+   color: #f8ff7c;
+   width: 100%;
+   padding: 0 5%;
+   font-size: clamp(16px, 5vw, 32px);
+   line-height: 1.2;
+}
+
+.image15 .captions .captions-wrapper div {
+   position: absolute;
+   font-size: clamp(6px, 2.5vw, 12px);
+   line-height: 1.1;
+   color: #fff;
+   font-weight: normal;
+   letter-spacing: -0.02em;
+}
+
+.image15 .captions .captions-wrapper div span {
+   display: block;
+   font-size: clamp(14px, 4vw, 24px);
+   line-height: 1.1;
+   color: #fff;
+   font-weight: normal;
+   font-weight: 500;
+   letter-spacing: 0.05em;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(1) {
+   top: 45%;
+   left: 15%;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(2) {
+   top: 45%;
+   left: 44%;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(3) {
+   top: 45%;
+   left: 78%;
+   width: 18%;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(4) {
+   top: 73%;
+   left: 15%;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(5) {
+   top: 73%;
+   left: 44%;
+   width: 24%;
+}
+
+.image15 .captions .captions-wrapper div:nth-child(6) {
+   top: 73%;
+   left: 78%;
+   width: 18%;
+}
